@@ -6,7 +6,7 @@ Note this is a "gallery of features" talk. Much of the syntax of the code is sim
 
 Additional resources mentioned in the talk include:
 
--  Simon Wood's [Generalized Linear Models in R](https://www.crcpress.com/Generalized-Additive-Models-An-Introduction-with-R-Second-Edition/Wood/p/book/9781498728331) 
+-  Simon Wood's [Generalized Additive Models in R](https://www.crcpress.com/Generalized-Additive-Models-An-Introduction-with-R-Second-Edition/Wood/p/book/9781498728331) 
 -  Materials from our [2017 Ecological Society of America workshop on GAMs](https://noamross.github.io/mgcv-esa-workshop/)
 -  Gavin Simpsons's excellent, [GAM-centric blog](https://www.fromthebottomoftheheap.net/)
 -  Gavin's amazing [Cross Validated answer on spatiotemporal modelling with GAMs](https://stats.stackexchange.com/questions/244042/trend-in-irregular-time-series-data/306361#306361)
