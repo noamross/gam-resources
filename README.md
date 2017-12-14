@@ -1,6 +1,6 @@
 # Nonlinear Modeling in R with GAMs: the magical world of mgcv
 
-Slides presented at the New York Open Statistical Programming Meetup on 2017-11-14
+Slides presented at the New York Open Statistical Programming Meetup on 2017-11-14.  A video of the talk is here: https://www.youtube.com/watch?v=q4_t8jXcQgc.
 
 Note this is a "gallery of features" talk. Much of the syntax of the code is simplified, pretty much nothing runs as-is.
 
