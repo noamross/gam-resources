@@ -3,8 +3,9 @@
 In no particular order:
 
 - My [DataCamp course on GAMs](https://www.datacamp.com/courses/nonlinear-modeling-in-r-with-gams).  Aimed at beginners, with basic R and linear regression experience
+-  [Slides from my talk at the New York R User's Group](2017-11-14-noamross-gams-nyhackr.pdf) (this repo).  This is a high-level overview of things that GAMs and mgcv can do.  Video (~80 minutes) here: <https://www.youtube.com/watch?v=q4_t8jXcQgc>
 -  Materials from our [2017 Ecological Society of America workshop on GAMs](https://noamross.github.io/mgcv-esa-workshop/).  These are designed for the interactive workshop but may still be useful.  Target audience is graduate students with a little more statistical training. GLM knowledge a prerequisite.  See the [references page](https://noamross.github.io/mgcv-esa-2018/links_and_bibliography.html) in particular
-    -   The [2018 materials](https://noamross.github.io/mgcv-esa-2018/) are almost exactly the same, but we are tracking issues in this repo for future improvement!
+    -   The [2018 materials](https://noamross.github.io/mgcv-esa-2018/) are almost exactly the same, but we are tracking issues in that repo for future improvement!
 -  The essential GAMs reference is Simon Wood's [Generalized Additive Models in R](https://www.crcpress.com/Generalized-Additive-Models-An-Introduction-with-R-Second-Edition/Wood/p/book/9781498728331).  
     -  Recently reviewed by Virgilio Gomez-Rubio in the [Journal of Statistical Software](https://www.jstatsoft.org/article/view/v086b01)
 -  Gavin Simpsons's excellent, [GAM-centric blog](https://www.fromthebottomoftheheap.net/) where he tries out new and little-used GAM formulations.
