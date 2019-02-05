@@ -15,3 +15,4 @@ In no particular order:
 -  The [**gratia**](https://github.com/gavinsimpson/gratia) package by Gavin Simpson for using **mgcv** with **ggplot2** and other useful and tidy helper functions.  Here's a [blog post](https://www.fromthebottomoftheheap.net/2018/10/23/introducing-gratia/) introducing it.
 -  [Hierarchical Generalized Additive Models: an introduction with mgcv](https://peerj.com/preprints/27320/) A paper by Eric J. Pedersen, David L. Miller, Gavin Simpson, and Noam Ross on fitting gams with heirarchical/mixed structures.  [GitHub repo here](https://github.com/noamross/mixed-effect-gams).
 -  [Modelling palaeoecological time series using generalized additive models](https://www.biorxiv.org/content/early/2018/05/15/322248), a paper by Gavin L. Simpson
+- (Bayesian views of generalized additive modelling)[https://arxiv.org/abs/1902.01330], a brief but useful write-up on Bayesian approaches and interpretations of GAMs.
