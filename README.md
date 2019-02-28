@@ -17,3 +17,4 @@ In no particular order:
 -  [Modelling palaeoecological time series using generalized additive models](https://www.biorxiv.org/content/early/2018/05/15/322248), a paper by Gavin L. Simpson
 - [Bayesian views of generalized additive modelling](https://arxiv.org/abs/1902.01330), a brief but useful write-up on Bayesian approaches and interpretations of GAMs by Dave Miller.
 - [Generalised additive mixed models for dynamic analysis in linguistics: a practical introduction](https://arxiv.org/abs/1703.05339) by [Márton Sóskuthy](https://twitter.com/msoskuthy)
+- [Simplified Integrated Nested Laplace Approximation](https://people.maths.bris.ac.uk/~sw15190/ginlane.pdf) by Simon N. Wood, details the `ginla()` function added in **mgcv** 1.8-27.
