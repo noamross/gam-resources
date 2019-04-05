@@ -2,7 +2,7 @@
 
 In no particular order:
 
-- My [DataCamp course on GAMs](https://www.datacamp.com/courses/nonlinear-modeling-in-r-with-gams).  Aimed at beginners, with basic R and linear regression experience
+
 -  [Slides from my talk at the New York R User's Group](2017-11-14-noamross-gams-nyhackr.pdf) (this repo).  This is a high-level overview of things that GAMs and mgcv can do.  Video (~80 minutes) here: <https://www.youtube.com/watch?v=q4_t8jXcQgc>
 -  Materials from our [2017 Ecological Society of America workshop on GAMs](https://noamross.github.io/mgcv-esa-workshop/).  These are designed for the interactive workshop but may still be useful.  Target audience is graduate students with a little more statistical training. GLM knowledge a prerequisite.  See the [references page](https://noamross.github.io/mgcv-esa-2018/links_and_bibliography.html) in particular
     -   The [2018 materials](https://noamross.github.io/mgcv-esa-2018/) are almost exactly the same, but we are tracking issues in that repo for future improvement!
