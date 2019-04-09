@@ -8,6 +8,7 @@ In no particular order:
     -   The [2018 materials](https://noamross.github.io/mgcv-esa-2018/) are almost exactly the same, but we are tracking issues in that repo for future improvement!
 -  The essential GAMs reference is Simon Wood's [Generalized Additive Models in R](https://www.crcpress.com/Generalized-Additive-Models-An-Introduction-with-R-Second-Edition/Wood/p/book/9781498728331).  
     -  Recently reviewed by Virgilio Gomez-Rubio in the [Journal of Statistical Software](https://www.jstatsoft.org/article/view/v086b01)
+-  [An online book](https://m-clark.github.io/generalized-additive-models/) by Michael Clark gives an a very nice short introduction to both GAM theory and use in R.
 -  Gavin Simpsons's excellent, [GAM-centric blog](https://www.fromthebottomoftheheap.net/) where he tries out new and little-used GAM formulations.
 -  [StackOverflow](https://stackoverflow.com/questions/tagged/mgcv) and [Cross Validated](https://stats.stackexchange.com/questions/tagged/mgcv) tags for `mgcv`
     -  Home to Gavin's amazing [Cross Validated answer on spatiotemporal modelling with GAMs](https://stats.stackexchange.com/questions/244042/trend-in-irregular-time-series-data/306361#306361)
